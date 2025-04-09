@@ -5,9 +5,10 @@ num2 = 6.3
 num3 = 2.2
 num4 = 3.3
 num5=4.4
+num6=3.3
 
 # Add two numbers
-sum = num1 + num2+num3+num4+num5
+sum = num1 + num2+num3+num4+num5+num6
 
 # Display the sum
 print(sum)
